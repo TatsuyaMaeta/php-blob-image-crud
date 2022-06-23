@@ -1,0 +1,11 @@
+div {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.size {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
